@@ -1,3 +1,4 @@
+//Simple game:
 let userInput = 'Rock';
 userInput = userInput.toLowerCase();
 
